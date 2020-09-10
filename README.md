@@ -6,3 +6,4 @@ I'm a Computer Engineer with MSc. degree. I develop projects mostly in PHP. On t
 - [Twitter](https://twitter.com/emrejilta)
 - [Medium](https://medium.com/@emrejilta)
 - [Researchgate](https://www.researchgate.net/profile/Emre_Jilta2)
+- [Transifex](https://www.transifex.com/user/profile/emrejilta/)
