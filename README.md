@@ -2,10 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=emrejilta)
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=emrejilta&show_icons=true&count_private=true&hide=contribs,issues" alt="Emre's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrejilta&layout=compact&hide=html,css" alt="ETop Langs" />
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrejilta&show_icons=true&count_private=true&hide=contribs" alt="Emre's github stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrejilta&layout=compact&hide=html,css" alt="ETop Langs" />
+  </a>
+
 
 I'm a Computer Engineer with MSc. degree. I develop projects mostly in PHP. On the other hand Java, Swift and Python are among the programming languages I prefer to use. Data Science, Deep Learning, Data Compression, Cryptology, Web Scraping and Free Software are also the fields that I'm involved in. 
 
