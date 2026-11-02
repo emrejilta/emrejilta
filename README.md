@@ -2,13 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=emrejilta)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrejilta&show_icons=true&count_private=true&hide=contribs" alt="Emre's github stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrejilta&layout=compact&hide=html,css" alt="ETop Langs" />
-  </a>
-
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=emrejilta&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=emrejilta&show_icons=true&include_all_commits=true&theme=light_github)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=emrejilta&langs_count=10&theme=light_github&layout=compact&hide=html,css,scss)](https://github-stats-extended.vercel.app/api/top-langs?username=emrejilta&langs_count=10&theme=light_github&layout=compact&hide=html,css,scss)
 
 I'm a Computer Engineer with MSc. degree. I develop projects mostly in PHP. On the other hand Java, Swift and Python are among the programming languages I prefer to use. Data Science, Deep Learning, Data Compression, Cryptology, Web Scraping and Free Software are also the fields that I'm involved in. 
 
